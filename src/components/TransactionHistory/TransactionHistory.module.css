@@ -1,0 +1,23 @@
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.tableHeadTitle {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+  background-color: #f0f0f0;
+  color: #333;
+  text-align: center;
+}
+
+.tableBodyRow {
+  border-bottom: 1px solid #ddd;
+}
+
+.tableBodyRowData {
+  padding: 8px;
+  padding: 8px;
+  text-align: center;
+}
+
