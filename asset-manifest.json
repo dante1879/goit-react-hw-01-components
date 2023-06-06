@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/dante1879/goit-react-hw-01-components/static/css/main.1794d518.css",
-    "main.js": "/dante1879/goit-react-hw-01-components/static/js/main.aafc4f0f.js",
-    "index.html": "/dante1879/goit-react-hw-01-components/index.html",
-    "main.1794d518.css.map": "/dante1879/goit-react-hw-01-components/static/css/main.1794d518.css.map",
-    "main.aafc4f0f.js.map": "/dante1879/goit-react-hw-01-components/static/js/main.aafc4f0f.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.1794d518.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.aafc4f0f.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.1794d518.css.map": "/goit-react-hw-01-components/static/css/main.1794d518.css.map",
+    "main.aafc4f0f.js.map": "/goit-react-hw-01-components/static/js/main.aafc4f0f.js.map"
   },
   "entrypoints": [
     "static/css/main.1794d518.css",
